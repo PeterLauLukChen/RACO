@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local environments
+env/
+.venv/
+venv/
+trl/env/
+eval/env/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime outputs
+nohup.out
+*.out
+*.err
+*.log
+/logs/
+/output/
+eval/output/
+/data/
+
+# Large/generated model artifacts
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# W&B and HF local state
+wandb/
+.huggingface/

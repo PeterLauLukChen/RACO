@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Reward-free Alignment for Conflicting Objectives"
+message: "If you use this software, please cite the RACO paper."
+type: software
+authors:
+  - given-names: Peter L.
+    family-names: Chen
+  - given-names: Xiaopeng
+    family-names: Li
+  - given-names: Xi
+    family-names: Chen
+  - given-names: Tianyi
+    family-names: Lin
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2602.02495
+url: "https://arxiv.org/abs/2602.02495"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Reward-free Alignment for Conflicting Objectives"
+  authors:
+    - given-names: Peter L.
+      family-names: Chen
+    - given-names: Xiaopeng
+      family-names: Li
+    - given-names: Xi
+      family-names: Chen
+    - given-names: Tianyi
+      family-names: Lin
+  year: 2026
+  doi: 10.48550/arXiv.2602.02495

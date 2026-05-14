@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+include trl/accelerate_configs/*.yaml
+include trl/templates/*.md
+recursive-exclude * __pycache__
+prune tests
