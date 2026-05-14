@@ -1,4 +1,4 @@
-# RACO
+# [ICML 2026] RACO: Reward-free Alignment for Conflicting Objectives
 
 RACO is a **reward-free alignment fine-tuning method for multi-objective preference optimization**.
 
