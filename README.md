@@ -345,7 +345,7 @@ Best `beta` from our sweeps:
 
 ### Learning Rate
 
-Following SimPO (Meng et al., 2024), we sweep learning rates in `[1e-7, 5e-5]`.
+Following the sweeping strategy in SimPO (Meng et al., 2024), we sweep learning rates in `[1e-7, 5e-5]`.
 
 Best learning rates from our sweeps:
 
