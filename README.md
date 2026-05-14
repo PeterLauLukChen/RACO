@@ -1,6 +1,22 @@
-# [ICML 2026] Reward-free Alignment for Conflicting Objectives
+# [ICML 2026 Spotlight] Reward-free Alignment for Conflicting Objectives
 
 RACO is a **reward-free alignment fine-tuning method for multi-objective preference optimization**.
+
+---
+
+If you find the idea interesting, please cite
+
+```bibtex
+@inproceedings{Chen-2026-reward,
+  title={Reward-free Alignment for Conflicting Objectives},
+  author={Peter Chen and Xiaopeng Li and Xi Chen and Tianyi Lin},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026},
+  url={https://openreview.net/forum?id=vSzRJyg6k0}
+}
+```
+
+---
 
 This repository contains:
 
